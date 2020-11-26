@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(252, 252, 252);
+}
+.contorno{
+    background-color: rgb(110, 133, 139);
+    border-radius: 10px;
+    color: rgb(255, 230, 6);
+    font-size: 14px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 400px;
+}
+
+#ccb{
+    display:block;
+    margin:auto;
+}
+
+#ccb2{
+    padding-top: 50px;
+    display:block;
+    margin:auto;
+}
+
+.form1{
+    text-align: center;
+    margin-left: 38px;
+}
+
+.form2{
+    text-align: center;
+    margin-left: 30px;
+}
+
+#paises{
+    margin-top: 10px;
+    width: 50%;
+    text-align: center;
+    margin-left: 100px;
+}
+
+#bt{
+    margin-left: 155px;
+}
+
+h3{
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(241, 192, 55);
+}
