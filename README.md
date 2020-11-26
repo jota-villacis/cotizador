@@ -1,4 +1,4 @@
-# cotizador
+# Cotizador
 Desafio cotizador js
 
 
